@@ -1,4 +1,4 @@
-![Typing Fire](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=150&width=600&lines=Hi+👋;I'm+Carl&colors=FF0000,FF4500,FFA500,FFFF00)
+![Typing Red](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=100&width=600&lines=Hi+👋;I'm+Carl&colors=FF0000)
 
 ### 🔧 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,8 +17,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical)
 
 ![Coding GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
-![snake gif](https://raw.githubusercontent.com/CAACARL/CAACARL/output/github-contribution-grid-snake.svg)
 
 ### 🌱 I’m currently learning
 - Next.js
