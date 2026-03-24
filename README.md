@@ -16,10 +16,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CAACARL/CAACARL/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/CAACARL/CAACARL/blob/output/github-contribution-grid-snake.svg">
-</picture>
+![Coding GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
+![GitHub Snake](https://raw.githubusercontent.com/CAACARL/CAACARL/output/github-contribution-grid-snake.svg)
 
 ### 🌱 I’m currently learning
 - Next.js
