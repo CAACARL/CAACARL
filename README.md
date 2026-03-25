@@ -69,7 +69,7 @@
 
 ---
 
-<h2 align=""center>💻 Coding Mode</h2> 
+<h2 align="center">💻 Coding Mode</h2> 
 
 <p align="center">
   <img src="https://www.worthview.com/wp-content/uploads/2025/04/Internet-Coding-GIF-by-Pudgy-Penguins.gif?x31238" width="400"/>
