@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try%20not%20to%20croak...;AND;Always%20do%20your%20best%21" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Try%20not%20to%20croak...;AND;Always%20do%20your%20best%21" />
 </p>
 
 ---
@@ -21,6 +21,15 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" />
+  </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" />
   </a>
@@ -38,15 +47,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
   </a>
 </p>
 
