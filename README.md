@@ -1,12 +1,12 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Carl</span>
+  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">Hi, I'm Carl</span>
 </h1>
 <h3 align="center">
   💻 Full Stack in suffering | Cuteness
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try+not+to+croak;PLEASE+%7C+PLEASE+%7C+PLEASE;Anyway,+just always+do+your+best!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try%20not%20to%20croak;PLEASE%20%7C%20PLEASE%20%7C%20PLEASE;Anyway%2C%20just%20always%20do%20your%20best%21" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 ---
 
-## 🎥 Coding Mode
+## 💻 Coding Mode
 
 <p align="center">
   <img src="https://www.worthview.com/wp-content/uploads/2025/04/Internet-Coding-GIF-by-Pudgy-Penguins.gif?x31238" width="400"/>
