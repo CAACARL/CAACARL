@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try+Not+To+Croak;Please+%7C+Please+%7C+Please;Anyway+ALways+Do+Your+Best!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try+not+to+croak;PLEASE+%7C+PLEASE+%7C+PLEASE;Anyway,+just always+do+your+best!" />
 </p>
 
 ---
@@ -48,15 +48,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" />
-  </a>
 </p>
 
 ---
@@ -81,7 +72,15 @@
 ## 🎥 Coding Mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
+  <img src="https://www.worthview.com/wp-content/uploads/2025/04/Internet-Coding-GIF-by-Pudgy-Penguins.gif?x31238" width="400"/>
+</p>
+
+---
+
+## 🎥 Wordington Mode
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y5N2JweGRhY3F0NGQzMDl3djAxMTBjbThvNTY1MnkyZjN2cmp1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ciWO0w9pMbX78Gu5f/200w.gif" width="400"/>
 </p>
 
 ---
