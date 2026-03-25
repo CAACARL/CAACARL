@@ -80,9 +80,9 @@
 
 <h2>🚬 Wordington Mode</h2>
 <p>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y5N2JweGRhY3F0NGQzMDl3djAxMTBjbThvNTY1MnkyZjN2cmp1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ciWO0w9pMbX78Gu5f/200w.gif" width="400"/>
-  <img src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620" width="100"/>
-  <img src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y5N2JweGRhY3F0NGQzMDl3djAxMTBjbThvNTY1MnkyZjN2cmp1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ciWO0w9pMbX78Gu5f/200w.gif" height="400" width="400"/>
+  <img src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"height="400" width="400"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"height="400" width="400"/>
 </p>
 
 ---
