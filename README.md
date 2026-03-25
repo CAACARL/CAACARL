@@ -2,11 +2,11 @@
   <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">Hi, I'm Carl</span>
 </h1>
 <h3 align="center">
-  💻 Full Stack in suffering | Cuteness
+  🍆 Full Stack in suffering | Cuteness
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try%20not%20to%20croak;PLEASE%20%7C%20PLEASE%20%7C%20PLEASE;Anyway%2C%20just%20always%20do%20your%20best%21" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=Try%20not%20to%20croak...;PLEASE%20%7C%20PLEASE%20%7C%20PLEASE;Anyway%2C%20just%20always%20do%20your%20best%21" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 
 ---
 
-## 🎥 Wordington Mode
+## 🚬 Wordington Mode
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y5N2JweGRhY3F0NGQzMDl3djAxMTBjbThvNTY1MnkyZjN2cmp1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ciWO0w9pMbX78Gu5f/200w.gif" width="400"/>
