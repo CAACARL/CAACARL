@@ -1,23 +1,20 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Carl Dinkeberg</span>
+  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Carl</span>
 </h1>
 <h3 align="center">
-  💻 Full Stack Developer | Laravel & React Enthusiast
+  💻 Full Stack in suffering | Cuteness
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Laravel+%7C+React+%7C+MySQL;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try+Not+To+Croak;Please+%7C+Please+%7C+Please;Anyway+ALways+Do+Your+Best!" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Goal: Become a **professional full-stack developer**
-- 💡 Passionate about building **real-world web systems**
-- 🧠 Currently learning **Advanced Laravel & Next.js**
-- ⚡ Fun fact: I love **coding late at night & basketball**
-- 🌍 Location: Philippines 🇵🇭
+- 🎯 Goal: Learn how to code **Slowly**
+
 
 ---
 
@@ -73,10 +70,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (GIF)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CAACARL/CAACARL/output/github-contribution-grid-snake.svg" />
+  <img src="https://akshay2002singh.github.io/Snake-Eating-my-Contributions/github-contribution-grid-snake.gif" />
 </p>
 
 ---
@@ -97,14 +94,6 @@
 
 ---
 
-## 🤝 Let's Collaborate
-
-- Open-source projects 💻
-- Web systems (Booking, Management Systems, etc.)
-- Innovative personal projects 🚀
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -120,4 +109,4 @@
 
 ---
 
-⭐ _"Code. Learn. Build. Repeat."_
+⭐ _"Code. Learn. Build. Repeat. Try not to die"_
