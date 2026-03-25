@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🚀 Coding Mode</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
