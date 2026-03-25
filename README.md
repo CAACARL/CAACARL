@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=Try%20not%20to%20croak...;PLEASE%20%7C%20PLEASE%20%7C%20PLEASE;Anyway%2C%20just%20always%20do%20your%20best%21" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Try%20not%20to%20croak...;AND;Always%20do%20your%20best%21" />
 </p>
 
 ---
