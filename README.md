@@ -79,9 +79,11 @@
 ---
 
 <h2>🚬 Wordington Mode</h2>
-<div style="position: relative; width: 400px; height: 400px; margin: auto;">
+<h2>🚬 Wordington Mode</h2>
 
-  <!-- Top Triangle -->
+<div style="position: relative; width: 420px; height: 360px; margin: auto;">
+
+  <!-- TOP TRIANGLE -->
   <img 
     src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
     style="
@@ -89,11 +91,11 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
-      clip-path: polygon(50% 0%, 0% 50%, 100% 50%);
+      clip-path: polygon(50% 0%, 0% 65%, 100% 65%);
     "
   />
 
-  <!-- Bottom Left Triangle -->
+  <!-- BOTTOM LEFT -->
   <img 
     src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"
     style="
@@ -101,11 +103,11 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
-      clip-path: polygon(0% 50%, 50% 100%, 0% 100%);
+      clip-path: polygon(0% 65%, 50% 100%, 0% 100%);
     "
   />
 
-  <!-- Bottom Right Triangle -->
+  <!-- BOTTOM RIGHT -->
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif"
     style="
@@ -113,7 +115,7 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
-      clip-path: polygon(100% 50%, 50% 100%, 100% 100%);
+      clip-path: polygon(100% 65%, 50% 100%, 100% 100%);
     "
   />
 
