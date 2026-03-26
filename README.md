@@ -86,7 +86,7 @@
 
   <!-- BACK IMAGE -->
   <img 
-    src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"
+    src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
     style="
       position: absolute;
       top: 40px;
@@ -103,7 +103,7 @@
 
   <!-- MIDDLE IMAGE -->
   <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif"
+    src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"
     style="
       position: absolute;
       top: 0;
@@ -119,7 +119,7 @@
 
   <!-- FRONT IMAGE -->
   <img 
-    src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif"
     style="
       position: absolute;
       top: 80px;
