@@ -83,7 +83,9 @@
 
   <!-- Image 1: slightly lower -->
   <div style="margin-top: 20px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y5N2JweGRhY3F0NGQzMDl3djAxMTBjbThvNTY1MnkyZjN2cmp1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ciWO0w9pMbX78Gu5f/200w.gif" height="400" width="400" />
+    <div style="margin-top: -20px;">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445" height="400" width="400" />
+  </div>
   </div>
 
   <!-- Image 2: normal -->
@@ -92,10 +94,6 @@
   </div>
 
   <!-- Image 3: slightly higher -->
-  <div style="margin-top: -20px;">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445" height="400" width="400" />
-  </div>
-
 </div>
 
 ---
