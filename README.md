@@ -79,24 +79,44 @@
 ---
 
 <h2>🚬 Wordington Mode</h2>
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="position: relative; width: 400px; height: 400px; margin: auto;">
 
-  <!-- Image 1: slightly lower -->
-<div style="margin-top: 20px;">
-  <div style="margin-top: -20px;">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445" height="400" width="400" />
-  </div>
-  </div>
+  <!-- Top Triangle -->
+  <img 
+    src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
+    style="
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      clip-path: polygon(50% 0%, 0% 50%, 100% 50%);
+    "
+  />
 
-  <!-- Image 2: normal -->
-  <div style="margin-top: 0px;">
-    <img src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620" height="400" width="400" />
-  </div>
+  <!-- Bottom Left Triangle -->
+  <img 
+    src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"
+    style="
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      clip-path: polygon(0% 50%, 50% 100%, 0% 100%);
+    "
+  />
 
-  <!-- Image 3: slightly higher -->
-  <div style="margin-top: 0px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif" height="400" width="400" />
-  </div>
+  <!-- Bottom Right Triangle -->
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif"
+    style="
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      clip-path: polygon(100% 50%, 50% 100%, 100% 100%);
+    "
+  />
+
 </div>
 
 ---
