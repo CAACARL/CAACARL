@@ -80,8 +80,6 @@
 
 <h2>🚬 Wordington Mode</h2>
 
-<h2>🚬 Wordington Mode</h2>
-
 <div style="position: relative; width: 420px; height: 360px; margin: auto;">
 
   <!-- BACK IMAGE -->
