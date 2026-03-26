@@ -117,7 +117,7 @@
 
   <!-- FRONT IMAGE -->
   <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif"
+    src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif"
     style="
       position: absolute;
       top: 80px;
