@@ -80,54 +80,53 @@
 
 <h2>🚬 Wordington Mode</h2>
 
-<div style="position: relative; width: 420px; height: 360px; margin: auto;">
+<div style="position: relative; width: 420px; height: 260px; margin: auto;">
 
-  <!-- BACK IMAGE -->
-  <img 
-    src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
-    style="
-      position: absolute;
-      top: 40px;
-      left: 0;
-      width: 300px;
-      height: 300px;
-      object-fit: cover;
-      border-radius: 20px;
-      opacity: 0.8;
-      transform: rotate(-6deg);
-      filter: blur(1px);
-    "
-  />
-
-  <!-- MIDDLE IMAGE -->
+  <!-- BACK -->
   <img 
     src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"
     style="
       position: absolute;
-      top: 0;
-      left: 100px;
-      width: 300px;
-      height: 300px;
+      top: 30px;
+      left: 0;
+      width: 220px;
+      height: 220px;
       object-fit: cover;
-      border-radius: 20px;
-      transform: rotate(6deg);
-      opacity: 0.9;
+      border-radius: 16px;
+      opacity: 0.7;
+      transform: rotate(-8deg);
     "
   />
 
-  <!-- FRONT IMAGE -->
+  <!-- MIDDLE -->
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif"
     style="
       position: absolute;
-      top: 80px;
-      left: 60px;
-      width: 300px;
-      height: 300px;
+      top: 0;
+      left: 120px;
+      width: 220px;
+      height: 220px;
       object-fit: cover;
-      border-radius: 20px;
-      box-shadow: 0 0 25px rgba(255, 0, 100, 0.6);
-      transform: rotate(-2deg);
+      border-radius: 16px;
+      transform: rotate(6deg);
+      opacity: 0.85;
+    "
+  />
+
+  <!-- FRONT -->
+  <img 
+    src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
+    style="
+      position: absolute;
+      top: 50px;
+      left: 70px;
+      width: 220px;
+      height: 220px;
+      object-fit: cover;
+      border-radius: 16px;
+      box-shadow: 0 0 15px rgba(255, 0, 100, 0.5);
+      transform: rotate(-3deg);
     "
   />
 
