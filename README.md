@@ -82,8 +82,8 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- Image 1: slightly lower -->
-  <div style="margin-top: 20px;">
-    <div style="margin-top: -20px;">
+<div style="margin-top: 20px;">
+  <div style="margin-top: -20px;">
     <img src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445" height="400" width="400" />
   </div>
   </div>
@@ -94,6 +94,9 @@
   </div>
 
   <!-- Image 3: slightly higher -->
+  <div style="margin-top: 0px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFsNTBjMTcxNzU2cWpweGdjMWdwMDVhcTN1ZzM2dGNlbHU1ZnBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh5UZVQjB9ouQ/giphy.gif" height="400" width="400" />
+  </div>
 </div>
 
 ---
