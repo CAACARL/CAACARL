@@ -58,7 +58,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img src="https://github.com/CAACARL/CAACARL/blob/main/metrics.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CAACARL&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -82,8 +83,7 @@
 <div style="position: relative; width: 420px; height: 360px; margin: auto;">
 
   <!-- BACK IMAGE -->
-
-<img 
+  <img 
     src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
     style="
       position: absolute;
@@ -100,8 +100,7 @@
   />
 
   <!-- MIDDLE IMAGE -->
-
-<img 
+  <img 
     src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"
     style="
       position: absolute;
@@ -117,8 +116,7 @@
   />
 
   <!-- FRONT IMAGE -->
-
-<img 
+  <img 
     src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif"
     style="
       position: absolute;
