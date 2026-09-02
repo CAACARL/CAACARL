@@ -58,8 +58,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=CAACARL&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical&hide_border=true" height="160"/>
+   <img src="https://github-readme-stats-fast.vercel.app/api?username=CAACARL&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
