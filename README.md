@@ -18,7 +18,7 @@
 
 <h2>🚀 About Me</h2>
 <p>
-  🎓 <b>Fresh graduate</b> <b>&</b> <b>Looking for an opportunity to grow</b>
+  🎓 <b>Fresh graduate</b> <b>&</b> <b>looking for an opportunity to grow</b> 🌱
 </p>
 
 ---
@@ -78,7 +78,7 @@
 
 ---
 
-<h2></h2>
+<h2>🏄🏿</h2>
 
 <div style="position: relative; width: 420px; height: 360px; margin: auto;">
 
@@ -132,11 +132,10 @@
 
 <h2>📫 Connect With Me</h2>
 <p>
-  <a href="mailto:wazzy42069@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wazzy42069@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 ---
 
 <p>
