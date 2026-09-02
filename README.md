@@ -132,9 +132,7 @@
 
 <h2>📫 Connect With Me</h2>
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wazzy42069@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=wazzy42069@gmail.com)
 </p>
 ---
 
