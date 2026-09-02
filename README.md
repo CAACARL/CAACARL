@@ -16,7 +16,7 @@
 
 ---
 
-<h2>🚀 About Me</h2>
+<h2>🙋 About Me</h2>
 <p>
   🎓 <b>Fresh graduate</b> <b>&</b> <b>looking for an opportunity to grow</b> 🌱
 </p>
