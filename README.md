@@ -7,7 +7,7 @@
 </h1>
 
 <h3>
-  🍆 Full Stack in suffering | Cuteness
+  Aspiring Web Developer
 </h3>
 
 <p>
@@ -18,7 +18,7 @@
 
 <h2>🚀 About Me</h2>
 <p>
-  🎯 Goal: Learn how to code <b>(slowly)</b>
+  🎓 <b>Fresh graduate</b> <b>&</b> <b>Looking for an opportunity to grow</b>
 </p>
 
 ---
@@ -78,12 +78,13 @@
 
 ---
 
-<h2>🚬 Wordington Mode</h2>
+<h2></h2>
 
 <div style="position: relative; width: 420px; height: 360px; margin: auto;">
 
   <!-- BACK IMAGE -->
-  <img 
+
+<img 
     src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
     style="
       position: absolute;
@@ -99,24 +100,9 @@
     "
   />
 
-  <!-- MIDDLE IMAGE -->
-  <img 
-    src="https://preview.redd.it/does-anyone-have-that-gif-v0-27ls2u2pfcsb1.jpeg?width=1079&format=pjpg&auto=webp&s=0fa7154b35e09fcab4dbf2c5a26e487455b9b620"
-    style="
-      position: absolute;
-      top: 0;
-      left: 100px;
-      width: 300px;
-      height: 300px;
-      object-fit: cover;
-      border-radius: 20px;
-      transform: rotate(6deg);
-      opacity: 0.9;
-    "
-  />
-
   <!-- FRONT IMAGE -->
-  <img 
+
+<img 
     src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif"
     style="
       position: absolute;
@@ -135,7 +121,7 @@
 
 ---
 
-<h2>🌱 Currently Learning</h2>
+<h2>📖 Currently Learning</h2>
 <p>
   🔥 <b>Advanced Laravel</b> (API, Security, Authentication)<br>
   ⚡ <b>Next.js</b> (Fullstack React)<br>
