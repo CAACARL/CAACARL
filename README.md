@@ -1,145 +1,417 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                           HERO                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h1>
-  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
-    Hi, I'm Carl
+  <span style="background: linear-gradient(90deg, #00f5ff, #8b5cf6, #ff00aa); -webkit-background-clip: text; color: transparent;">
+    Hi, I'm Carl 👋
   </span>
 </h1>
 
 <h3>
-  Aspiring Web Developer
+  Web Developer • Builder • Problem Solver
 </h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&width=600&lines=Try%20not%20to%20croak...;AND;Always%20do%20your%20best%21" />
+  <i>Turning ideas into functional web applications.</i>
 </p>
 
----
+<br>
 
-<h2>🙋 About Me</h2>
-<p>
-  🎓 <b>Fresh graduate</b> <b>&</b> <b>looking for an opportunity to grow</b> 🌱
-</p>
+<img
+src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+for+the+web...;Learning+new+technologies...;Breaking+things+and+fixing+them...;Turning+ideas+into+code...;Try+not+to+croak..."
+/>
 
----
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
+/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         ABOUT ME                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>🧑‍💻 About Me</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      🎓<br>
+      <b>Fresh Graduate</b><br>
+      <sub>BS Information Technology</sub>
+    </td>
+    <td align="center" width="33%">
+      🌐<br>
+      <b>Web Development</b><br>
+      <sub>Frontend & Backend</sub>
+    </td>
+    <td align="center" width="33%">
+      🌱<br>
+      <b>Always Learning</b><br>
+      <sub>Exploring new technologies</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+> Building projects, exploring new technologies, and turning ideas into functional web applications.
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       WHAT I BUILD                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>🚀 What I Build</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      🌐<br><br>
+      <b>Web Applications</b><br>
+      <sub>Responsive and functional web experiences built around real use cases.</sub>
+    </td>
+    <td align="center" width="33%">
+      ⚙️<br><br>
+      <b>Backend Systems</b><br>
+      <sub>Authentication, APIs, databases, CRUD systems and application logic.</sub>
+    </td>
+    <td align="center" width="33%">
+      🎨<br><br>
+      <b>User Interfaces</b><br>
+      <sub>Clean interfaces with usability, structure and visual identity.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        TECH STACK                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2>🛠️ Tech Stack</h2>
+
+<h3>💻 Languages</h3>
+
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" width="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" />
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" width="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java" />
 </p>
 
----
+<h3>⚛️ Frameworks & Libraries</h3>
 
-<h2>📊 GitHub Stats</h2>
 <p>
-   <img src="https://github-readme-stats-fast.vercel.app/api?username=CAACARL&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,bootstrap" />
 </p>
 
----
+<h3>🗄️ Databases</h3>
 
-<h2>🐍 Contribution Snake (GIF)</h2>
 <p>
-  <img src="https://akshay2002singh.github.io/Snake-Eating-my-Contributions/github-contribution-grid-snake.gif" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
----
+<h3>🔧 Tools</h3>
 
-<h2>💻 Coding Mode</h2> 
 <p>
-  <img src="https://www.worthview.com/wp-content/uploads/2025/04/Internet-Coding-GIF-by-Pudgy-Penguins.gif?x31238" width="400"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       FEATURED PROJECTS                        -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+
+```
+<td width="50%" align="center">
+```
+
+<h3>⌨️ TypeTron</h3>
+
+<p>
+  <i>Cyberpunk-inspired typing test</i>
+</p>
+
+<p>
+  A typing application focused on speed, accuracy and performance tracking.
+</p>
+
+<p>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Vite</code>
+  <code>CSS</code>
+</p>
+
+<a href="https://github.com/CAACARL">
+  <b>View Project →</b>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>💆 Massage Booking System</h3>
+
+<p>
+  <i>Laravel booking platform</i>
+</p>
+
+<p>
+  Booking system featuring authentication, roles, notifications and location-based booking.
+</p>
+
+<p>
+  <code>Laravel</code>
+  <code>PHP</code>
+  <code>SQLite</code>
+  <code>Tailwind</code>
+</p>
+
+<a href="https://github.com/CAACARL">
+  <b>View Project →</b>
+</a>
+
+</td>
+
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                      GITHUB DASHBOARD                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>📊 GitHub Dashboard</h2>
+
+<p>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=CAACARL&show_icons=true&theme=radical&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical&hide_border=true"
+    height="165"
+  />
+</p>
+
+<br>
+
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CAACARL&theme=radical&hide_border=true"
+  />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    CONTRIBUTION SNAKE                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>🐍 Contribution Activity</h2>
+
+<p>
+  <img
+    src="https://akshay2002singh.github.io/Snake-Eating-my-Contributions/github-contribution-grid-snake.gif"
+  />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       CODING MODE                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>💻 Coding Mode</h2>
+
+<p>
+  <img
+    src="https://www.worthview.com/wp-content/uploads/2025/04/Internet-Coding-GIF-by-Pudgy-Penguins.gif?x31238"
+    width="400"
+  />
+</p>
+
+<p>
+  <code>STATUS: ONLINE</code>
+  &nbsp;&nbsp;
+  <code>MODE: BUILDING</code>
+  &nbsp;&nbsp;
+  <code>BUGS: PROBABLY</code>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       CURRENTLY LEARNING                       -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>📖 Currently Learning</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      🔥<br>
+      <b>Advanced Laravel</b><br>
+      <sub>APIs • Security • Authentication</sub>
+    </td>
+    <td align="center">
+      ⚡<br>
+      <b>Next.js</b><br>
+      <sub>Fullstack React • Server-side Development</sub>
+    </td>
+    <td align="center">
+      🎨<br>
+      <b>UI/UX</b><br>
+      <sub>Design Fundamentals • User Experience</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         TERMINAL                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>⌨️ Developer Terminal</h2>
+
+<table align="center">
+  <tr>
+    <td>
+
+<pre>
+┌─────────────────────────────────────────────────┐
+│  ~/carl                                          │
+│                                                  │
+│  $ whoami                                        │
+│  carl                                            │
+│                                                  │
+│  $ role                                          │
+│  web-developer                                   │
+│                                                  │
+│  $ currently_building                           │
+│  web applications                                │
+│                                                  │
+│  $ stack                                         │
+│  React · Laravel · PHP · JavaScript · SQL        │
+│                                                  │
+│  $ status                                        │
+│  ████████████████████░░░░  BUILDING             │
+│                                                  │
+│  $ motivation                                    │
+│  "Code. Learn. Build. Repeat."                   │
+│                                                  │
+│  $ exit                                          │
+│  Try not to croak...                             │
+└─────────────────────────────────────────────────┘
+</pre>
+
+```
+</td>
+```
+
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         PERSONALITY                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2>🏄🏿</h2>
 
-<div style="position: relative; width: 420px; height: 360px; margin: auto;">
+<div align="center">
 
-  <!-- BACK IMAGE -->
+<img
+src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
+width="300"
+style="border-radius: 20px;"
+/>
 
-<img 
-    src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
-    style="
-      position: absolute;
-      top: 40px;
-      left: 0;
-      width: 300px;
-      height: 300px;
-      object-fit: cover;
-      border-radius: 20px;
-      opacity: 0.8;
-      transform: rotate(-6deg);
-      filter: blur(1px);
-    "
-  />
-
-  <!-- FRONT IMAGE -->
-
-<img 
-    src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif"
-    style="
-      position: absolute;
-      top: 80px;
-      left: 60px;
-      width: 300px;
-      height: 300px;
-      object-fit: cover;
-      border-radius: 20px;
-      box-shadow: 0 0 25px rgba(255, 0, 100, 0.6);
-      transform: rotate(-2deg);
-    "
-  />
+<img
+src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif"
+width="300"
+style="border-radius: 20px;"
+/>
 
 </div>
 
----
+<br>
 
-<h2>📖 Currently Learning</h2>
-<p>
-  🔥 <b>Advanced Laravel</b> (API, Security, Authentication)<br>
-  ⚡ <b>Next.js</b> (Fullstack React)<br>
-  🎨 UI/UX Design Fundamentals
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<!--                       CONNECT                                  -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2>📫 Connect With Me</h2>
-<p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carloaalbao@gmail.com" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
----
 
 <p>
-⭐ <i>"Code. Learn. Build. Repeat. Try not to die"</i>
+
+<a href="mailto:carloaalbao@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://github.com/CAACARL">
+  <img
+    src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</p>
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
+/>
+
+<br>
+
+<p>
+  <i>「 Code. Learn. Build. Repeat. Try not to die. 」</i>
+</p>
+
+<p>
+  <sub>Thanks for stopping by.</sub>
 </p>
 
 </div>
