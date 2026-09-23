@@ -23,7 +23,7 @@
 <br>
 
 <img
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&width=600&lines=Try%20not%20to%20croak...;AND;Always%20do%20your%20best%21" />
+src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&width=600&lines=Try%20not%20to%20croak...;AND;Always%20do%20your%20best%21" />
 />
 
 <br><br>
