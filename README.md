@@ -111,13 +111,13 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 <h3>💻 Languages</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java" />
+  <img src="https://skillicons.dev/icons?i=css,html,java,js,ts,php" />
 </p>
 
 <h3>⚛️ Frameworks & Libraries</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,laravel,nextjs,react,tailwind," />
 </p>
 
 <h3>🗄️ Databases</h3>
