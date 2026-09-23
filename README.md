@@ -325,13 +325,6 @@ style="border-radius: 20px;"
   />
 </a>
 
-<a href="https://github.com/CAACARL">
-  <img
-    src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
 </p>
 
 <br>
