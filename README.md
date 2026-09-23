@@ -247,30 +247,28 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
     <td>
 
 <pre>
+```text
 ┌─────────────────────────────────────────────────┐
-│  ~/carl                                          │
-│                                                  │
-│  $ whoami                                        │
-│  carl                                            │
-│                                                  │
-│  $ role                                          │
-│  web-developer                                   │
-│                                                  │
-│  $ currently_building                           │
-│  web applications                                │
-│                                                  │
-│  $ stack                                         │
-│  React · Laravel · PHP · JavaScript · SQL        │
-│                                                  │
-│  $ status                                        │
-│  ████████████████████░░░░  BUILDING             │
-│                                                  │
-│  $ motivation                                    │
-│  "Code. Learn. Build. Repeat."                   │
-│                                                  │
-│  $ exit                                          │
-│  Try not to croak...                             │
+│  ~/carl                                         │
+│                                                 │
+│  $ system-info                                 │
+│                                                 │
+│  developer      web                             │
+│  status         figuring it out                │
+│  brain          404                             │
+│  coffee         required                        │
+│  motivation     questionable                    │
+│  bugs           feature                         │
+│  tabs           too many                        │
+│                                                 │
+│  $ uptime                                      │
+│  still here.                                   │
+│                                                 │
+│  $ reboot                                      │
+│  permission denied: too much work in progress  │
 └─────────────────────────────────────────────────┘
+```
+
 </pre>
 
 </td>
@@ -292,13 +290,13 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 
 <img
 src="https://cdnb.artstation.com/p/assets/images/images/026/619/277/original/linnea-ernstsson-angel-glitch.gif?1589268445"
-width="300"
+width="700"
 style="border-radius: 20px;"
 />
 
 <img
 src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif"
-width="300"
+width="700"
 style="border-radius: 20px;"
 />
 
