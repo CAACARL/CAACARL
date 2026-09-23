@@ -8,7 +8,7 @@
 
 <h1>
   <span style="background: linear-gradient(90deg, #00f5ff, #8b5cf6, #ff00aa); -webkit-background-clip: text; color: transparent;">
-    Hi,👋
+    Hi
   </span>
 </h1>
 
@@ -17,7 +17,11 @@
 </h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&center=true&width=600&color=FF0000&lines=Try%20not%20to%20croak;and;always%20do%20your%20best" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&width=600&lines=Try%20not%20to%20croak" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FF00&center=true&width=600&lines=and" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FFFF&center=true&width=600&lines=always%20do%20your%20best" />
 </p>
 
 <br>
