@@ -22,7 +22,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FF88&center=true&width=600&lines=%3E+Try+not+to+croak...;%5B%5B+AND+%5D%5D;Always+do+your+best%21+_%2F%2F" />
+<div align="center">
+  <img src="./assets/glitch-text.svg" width="600" />
+</div>
 
 <br><br>
 
