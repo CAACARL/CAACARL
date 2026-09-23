@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/glitch-text.svg" width="600" />
+  <img src="./assets/glitch-text.gif" width="600" />
 </div>
 
 <br><br>
