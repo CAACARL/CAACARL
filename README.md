@@ -8,7 +8,7 @@
 
 <h1>
   <span style="background: linear-gradient(90deg, #00f5ff, #8b5cf6, #ff00aa); -webkit-background-clip: text; color: transparent;">
-    Hi, I'm Carl 👋
+    Hi,👋
   </span>
 </h1>
 
@@ -17,7 +17,7 @@
 </h3>
 
 <p>
-  <i>Turning ideas into functional web applications.</i>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&center=true&width=600&color=FF0000&lines=Try%20not%20to%20croak;and;always%20do%20your%20best" />
 </p>
 
 <br>
