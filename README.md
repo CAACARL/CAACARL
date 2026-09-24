@@ -20,12 +20,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" />
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=24&pause=1000&color=00FF66&center=true&width=600&lines=Try%20not%20to%20croak" />
+<p align="center">
+  <img
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=Try%20not%20to%20croak&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
+  />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=24&pause=1000&color=00FF66&center=true&width=600&lines=and" />
+<p align="center">
+  <img
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=and&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
+  />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=24&pause=1000&color=00FF66&center=true&width=600&lines=always%20do%20your%20best" />
+<p align="center">
+  <img
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=always%20do%20your%20best&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
+  />
 </p>
 
 <br>
