@@ -7,7 +7,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h1>
-  <img src="./assets/glitch-text2.gif" width="100" /> <img src="./assets/glitch-text3.gif" width="100" />
+  <img src="./assets/glitch-text2.gif" width="300" /> 
+</h1>
+
+<h1>
+  <img src="./assets/glitch-text3.gif" width="400" /> 
 </h1>
 
 <div align="center">
