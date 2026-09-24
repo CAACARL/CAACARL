@@ -25,7 +25,7 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&width=600&lines=Try%20not%20to%20croak" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&width=600&lines=Try%20not%20to%20croak" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FF00&center=true&width=600&lines=and" />
 
@@ -329,8 +329,8 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 
 <br>
 
-  <p>
-  <img src="./assets/matrix-quote.svg" width="700" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=700&color=00FF00&center=true&vCenter=true&width=700&delete=true&lines=%E3%80%8C+7X%40%23+L9%252+B!1D+R3P%243AT.+%E3%80%8D;%E3%80%8C+C0d3.+L3@rn.+Bu!ld.+R3p3@t.+%E3%80%8D;%E3%80%8C+Code.+Learn.+Build.+Repeat.+Try+not+to+die.+%E3%80%8D" />
 </p>
 
 <p>
