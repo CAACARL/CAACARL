@@ -14,10 +14,6 @@
   <img src="./assets/glitch-text.gif" width="200" />
 </div>
 
-<div align="center">
-<img src="./assets/glitch-text4.gif" width="300" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" />
 
 <p align="center">
@@ -291,7 +287,7 @@ style="border-radius: 20px;"
 
 <p align="center">
   <img
-    src="https://readme-svg-typing-generator.vercel.app/api?lines=%E3%80%8C+Code.+Learn.+Build.+Repeat.+Try+not+to+die.+%E3%80%8D&animation=glitch&color=00FF66&size=24&width=700&height=60&center=true&vCenter=true&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=%E3%80%8C+Learn.+Build.+Repeat.+Try+not+to+die.+%E3%80%8D&animation=glitch&color=00FF66&size=24&width=700&height=60&center=true&vCenter=true&repeat=true"
   />
 </p>
 
