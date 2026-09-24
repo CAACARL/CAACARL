@@ -331,9 +331,7 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 
 <p align="center">
   <img
-    src="https://gradient-svg-generator.vercel.app/api/svg?text=%E3%80%8C%20Code.%20Learn.%20Build.%20Repeat.%20Try%20not%20to%20die.%20%E3%80%8D&template=neon-flicker&height=80&color0=00FF00&color1=00AA55"
-    width="700"
-    alt="Code. Learn. Build. Repeat. Try not to die."
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=%E3%80%8C+Code.+Learn.+Build.+Repeat.+Try+not+to+die.+%E3%80%8D&animation=glitch&color=00FF66&size=24&width=700&height=60&center=true&vCenter=true&repeat=true"
   />
 </p>
 
