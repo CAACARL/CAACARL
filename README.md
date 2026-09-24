@@ -5,16 +5,13 @@
 <!--                           HERO                                 -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<h1>
   <img src="./assets/glitch-text2.gif" width="200" /> 
 </h1>
 
-<h1>
-  <img src="./assets/glitch-text3.gif" width="200" /> 
-</h1>
+  <img src="./assets/glitch-text3.gif" width="200" />
 
-<div align="center">
   <img src="./assets/glitch-text.gif" width="200" />
 </div>
 
