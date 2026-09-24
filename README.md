@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<img src="./assets/glitch-text4.gif" width="200" />
+<img src="./assets/glitch-text4.gif" width="300" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" />
@@ -295,8 +295,8 @@ style="border-radius: 20px;"
   />
 </p>
 
-</div>
-  <img src="./assets/glitch-text5.gif" width="200" />
+</div align="center">
+  <img src="./assets/glitch-text5.gif" width="300" />
 </div>
 
 </div>
