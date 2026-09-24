@@ -21,15 +21,15 @@
 </h3>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
+src="https://capsule-render.vercel.app/api?type=rect&color=green&height=2"
 />
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&width=600&lines=Try%20not%20to%20croak" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FF00&center=true&width=600&lines=Try%20not%20to%20croak" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FF00&center=true&width=600&lines=and" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FFFF&center=true&width=600&lines=always%20do%20your%20best" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FF00&center=true&width=600&lines=always%20do%20your%20best" />
 </p>
 
 <br>
@@ -324,7 +324,7 @@ style="border-radius: 20px;"
 <br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
+src="https://capsule-render.vercel.app/api?type=rect&color=green&height=2"
 />
 
 <br>
