@@ -16,13 +16,13 @@
   <img src="./assets/glitch-text.gif" width="600" />
 </div>
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
-/>
-
 <h3>
   Web Developer
 </h3>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
+/>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=FF0000&center=true&width=600&lines=Try%20not%20to%20croak" />
@@ -33,8 +33,6 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 </p>
 
 <br>
-
-<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
