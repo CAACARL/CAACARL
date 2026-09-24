@@ -310,8 +310,8 @@ style="border-radius: 20px;"
 
 <a href="mailto:carloaalbao@gmail.com">
   <img
-    src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
+    src="https://img.shields.io/badge/%3E_%20SEND%20EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=0D1117"
+    alt="Send email"
   />
 </a>
 
