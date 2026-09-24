@@ -12,7 +12,6 @@
   <img src="./assets/glitch-text3.gif" width="200" />
 
   <img src="./assets/glitch-text.gif" width="200" />
-
 </div>
 
 <img src="./assets/glitch-text4.gif" width="200" />
@@ -294,6 +293,6 @@ style="border-radius: 20px;"
   />
 </p>
 
-  <img src="./assets/glitch-text4.gif" width="200" />
+  <img src="./assets/glitch-text5.gif" width="200" />
 
 </div>
