@@ -7,7 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/glitch-text2.gif" width="200" />
+  
 </div>
 
 <img src="./assets/glitch-text4.gif" width="200" />
