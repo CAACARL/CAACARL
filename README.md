@@ -13,8 +13,9 @@
 
   <img src="./assets/glitch-text.gif" width="200" />
 
-  <img src="./assets/glitch-text4.gif" width="200" />
 </div>
+
+<img src="./assets/glitch-text4.gif" width="200" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" />
 
@@ -293,8 +294,6 @@ style="border-radius: 20px;"
   />
 </p>
 
-<p>
-  <sub>Thanks for stopping by.</sub>
-</p>
+  <img src="./assets/glitch-text4.gif" width="200" />
 
 </div>
