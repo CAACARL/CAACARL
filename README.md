@@ -8,9 +8,17 @@
 
 <h1>
   <span style="background: linear-gradient(90deg, #00f5ff, #8b5cf6, #ff00aa); -webkit-background-clip: text; color: transparent;">
-    Hi
+    Hi, I'm
   </span>
 </h1>
+
+<div align="center">
+  <img src="./assets/glitch-text.gif" width="600" />
+</div>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
+/>
 
 <h3>
   Web Developer
@@ -26,15 +34,7 @@
 
 <br>
 
-<div align="center">
-  <img src="./assets/glitch-text.gif" width="600" />
-</div>
-
 <br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
-/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
