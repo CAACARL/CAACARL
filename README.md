@@ -10,8 +10,8 @@
   <img src="./assets/glitch-text2.gif" width="200" />
 
   <img src="./assets/glitch-text3.gif" width="200" />
-  
-  <img src="./assets/glitch-text4.gif" width="200" />
+
+  <img src="./assets/glitch-text.gif" width="200" />
 </div>
 
 <img src="./assets/glitch-text4.gif" width="200" />
