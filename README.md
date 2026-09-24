@@ -329,8 +329,12 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 
 <br>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%E3%80%8C+Code.+Learn.+Build.+Repeat.+Try+not+to+die.+%E3%80%8D;+" />
+<p align="center">
+  <img
+    src="https://gradient-svg-generator.vercel.app/api/svg?text=%E3%80%8C%20Code.%20Learn.%20Build.%20Repeat.%20Try%20not%20to%20die.%20%E3%80%8D&template=neon-flicker&height=80&color0=00FF00&color1=00AA55"
+    width="700"
+    alt="Code. Learn. Build. Repeat. Try not to die."
+  />
 </p>
 
 <p>
