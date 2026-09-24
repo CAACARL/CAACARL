@@ -230,50 +230,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         TERMINAL                               -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>⌨️ Developer Terminal</h2>
-
-<table align="center">
-  <tr>
-    <td>
-
-<pre>
-```text
-┌─────────────────────────────────────────────────┐
-│  ~/carl                                         │
-│                                                 │
-│  $ system-info                                 │
-│                                                 │
-│  developer      web                             │
-│  status         figuring it out                │
-│  brain          404                             │
-│  coffee         required                        │
-│  motivation     questionable                    │
-│  bugs           feature                         │
-│  tabs           too many                        │
-│                                                 │
-│  $ uptime                                      │
-│  still here.                                   │
-│                                                 │
-│  $ reboot                                      │
-│  permission denied: too much work in progress  │
-└─────────────────────────────────────────────────┘
-```
-
-</pre>
-
-</td>
-
-  </tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         PERSONALITY                            -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
