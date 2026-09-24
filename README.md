@@ -295,8 +295,6 @@ style="border-radius: 20px;"
   />
 </p>
 
-</div align="center">
   <img src="./assets/glitch-text5.gif" width="300" />
-</div>
 
 </div>
