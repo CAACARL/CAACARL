@@ -329,8 +329,8 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"
 
 <br>
 
-<p>
-  <i>「 Code. Learn. Build. Repeat. Try not to die. 」</i>
+  <p>
+  <img src="./assets/matrix-quote.svg" width="700" />
 </p>
 
 <p>
