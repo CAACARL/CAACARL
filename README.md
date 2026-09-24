@@ -7,15 +7,15 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h1>
-  <img src="./assets/glitch-text2.gif" width="300" /> 
+  <img src="./assets/glitch-text2.gif" width="200" /> 
 </h1>
 
 <h1>
-  <img src="./assets/glitch-text3.gif" width="400" /> 
+  <img src="./assets/glitch-text3.gif" width="200" /> 
 </h1>
 
 <div align="center">
-  <img src="./assets/glitch-text.gif" width="600" />
+  <img src="./assets/glitch-text.gif" width="200" />
 </div>
 
 <h3>
