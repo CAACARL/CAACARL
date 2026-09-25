@@ -30,7 +30,7 @@
 
 <p align="center">
   <img
-    src="https://readme-svg-typing-generator.vercel.app/api?lines=PLEASE%T-T&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=PLEASE %T-T&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
   />
 </p>
 
