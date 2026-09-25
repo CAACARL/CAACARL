@@ -18,19 +18,19 @@
 
 <p align="center">
   <img
-    src="https://readme-svg-typing-generator.vercel.app/api?lines=Try%20not%20to%20croak&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=HIRE&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-svg-typing-generator.vercel.app/api?lines=and&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=ME&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-svg-typing-generator.vercel.app/api?lines=always%20do%20your%20best&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=PLEASE%T-T&animation=typing&color=00FF66&size=24&width=600&height=60&center=true&vCenter=true&repeat=true"
   />
 </p>
 
