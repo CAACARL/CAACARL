@@ -293,6 +293,4 @@ style="border-radius: 20px;"
 
   <img src="./assets/glitch-text5.gif" width="300" />
 
-<h1>for achievement</h1>
-
 </div>
