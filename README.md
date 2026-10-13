@@ -169,7 +169,8 @@
 
 <p>
   <img
-    src="https://akshay2002singh.github.io/Snake-Eating-my-Contributions/github-contribution-grid-snake.gif"
+    src="https://raw.githubusercontent.com/CAACARL/CAACARL/output/github-contribution-grid-snake-dark.svg"
+    width="700"
   />
 </p>
 
