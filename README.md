@@ -44,29 +44,27 @@
 
 <h2>🧑‍💻 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      🎓<br>
-      <b>Fresh Graduate</b><br>
-      <sub>BS Information Technology</sub>
-    </td>
-    <td align="center" width="33%">
-      🌐<br>
-      <b>Web Development</b><br>
-      <sub>Frontend & Backend</sub>
-    </td>
-    <td align="center" width="33%">
-      🌱<br>
-      <b>Always Learning</b><br>
-      <sub>Exploring new technologies</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🎓<br>
+  <b>Fresh Graduate</b><br>
+  <sub>BS Information Technology</sub>
+</p>
 
-<br>
+<p align="center">
+  🌐<br>
+  <b>Web Development</b><br>
+  <sub>Frontend & Backend</sub>
+</p>
 
-> Building projects, exploring new technologies, and turning ideas into functional web applications.
+<p align="center">
+  🌱<br>
+  <b>Always Learning</b><br>
+  <sub>Exploring new technologies</sub>
+</p>
+
+<p align="center">
+  <i>Building projects, exploring new technologies, and turning ideas into functional web applications.</i>
+</p>
 
 <br>
 
@@ -78,25 +76,23 @@
 
 <h2>🚀 What I Build</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      🌐<br><br>
-      <b>Web Applications</b><br>
-      <sub>Responsive and functional web experiences built around real use cases.</sub>
-    </td>
-    <td align="center" width="33%">
-      ⚙️<br><br>
-      <b>Backend Systems</b><br>
-      <sub>Authentication, APIs, databases, CRUD systems and application logic.</sub>
-    </td>
-    <td align="center" width="33%">
-      🎨<br><br>
-      <b>User Interfaces</b><br>
-      <sub>Clean interfaces with usability, structure and visual identity.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🌐<br>
+  <b>Web Applications</b><br>
+  <sub>Responsive and functional web experiences built around real use cases.</sub>
+</p>
+
+<p align="center">
+  ⚙️<br>
+  <b>Backend Systems</b><br>
+  <sub>Authentication, APIs, databases, CRUD systems and application logic.</sub>
+</p>
+
+<p align="center">
+  🎨<br>
+  <b>User Interfaces</b><br>
+  <sub>Clean interfaces with usability, structure and visual identity.</sub>
+</p>
 
 <br>
 
@@ -240,7 +236,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>⚖️ H̷̸̶̴̢͢ę̷̸̶̴͢l̷̸̶̴̢͢l̷̸̶̴̨͢o̷̸̶̴̢͢ W̷̸̶̴̢͢ǫ̷̸̶̴͢r̷̸̶̴̢͢l̷̸̶̴̨͢d̷̸̶̴̢͢</h2>
+<h2>⚖️ H̷̸̶̴̢͢ę̷̸̶̴͢l̷̸̶̴̢͢l̷̸̶̴̨͢o̷̸̶̴̢͢ W̷̸̶̴̢͢ǫ̷̸̶̴͢r̷̸̶̴̢͢l̷̸̶̴̨͢d̷̸̶̴̢͢</h2>
 
 <div align="center">
 
