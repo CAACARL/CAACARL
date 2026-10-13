@@ -140,11 +140,11 @@
 
 <p>
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=CAACARL&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=CAACARL&show_icons=true&theme=merko&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=merko&hide_border=true"
     height="165"
   />
 </p>
@@ -153,7 +153,7 @@
 
 <p>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CAACARL&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CAACARL&theme=merko&hide_border=true"
   />
 </p>
 
