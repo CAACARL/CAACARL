@@ -249,7 +249,7 @@ style="border-radius: 20px;"
 
 <img
 src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif"
-width="500"
+width="650"
 style="border-radius: 20px;"
 />
 
