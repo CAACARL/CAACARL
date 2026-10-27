@@ -139,14 +139,8 @@
 <h2>📊 GitHub Dashboard</h2>
 
 <p>
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=CAACARL&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=00FF66&icon_color=00FF66&bg_color=0D1117"
-    height="165"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=dark&hide_border=true&title_color=00FF66&text_color=00FF66&icon_color=00FF66&bg_color=0D1117"
-    height="165"
-  />
+  <img src="./assets/github-stats-3d.svg" width="49%" alt="GitHub statistics card" />
+  <img src="./assets/github-languages-3d.svg" width="49%" alt="Top languages card" />
 </p>
 
 <br />
