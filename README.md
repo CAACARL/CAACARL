@@ -138,14 +138,22 @@
 
 <h2>📊 GitHub Dashboard</h2>
 
-<p>
-  <img src="./assets/github-stats-3d.svg" width="49%" alt="GitHub statistics card" />
-  <img src="./assets/github-languages-3d.svg" width="49%" alt="Top languages card" />
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
-<br />
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=CAACARL&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=00FF66&icon_color=00FF66&bg_color=0D1117"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=dark&hide_border=true&title_color=00FF66&text_color=00FF66&icon_color=00FF66&bg_color=0D1117"
+    height="165"
+  />
+</p>
 
-<p>
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=CAACARL&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&currStreakNum=00FF66&sideNums=00FF66&dates=00FF66&hide_border=true"
   />
