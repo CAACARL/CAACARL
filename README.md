@@ -40,22 +40,22 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>🧑‍💻 About Me</h2>
+<h2>About Me</h2>
 
 <p align="center">
-  🎓<br>
+  <br>
   <b>Fresh Graduate</b><br>
   <sub>BS Information Technology</sub>
 </p>
 
 <p align="center">
-  🌐<br>
+  <br>
   <b>Web Development</b><br>
   <sub>Frontend & Backend</sub>
 </p>
 
 <p align="center">
-  🌱<br>
+  <br>
   <b>Always Learning</b><br>
   <sub>Exploring new technologies</sub>
 </p>
@@ -72,7 +72,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>🚀 What I Build</h2>
+<h2>What I Build</h2>
 
 <p align="center">
   🌐<br>
@@ -100,7 +100,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <h3>💻 Languages</h3>
 
@@ -134,7 +134,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>📊 GitHub Dashboard</h2>
+<h2>GitHub Dashboard</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
@@ -165,7 +165,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>🐍 Yummers</h2>
+<h2>Yummers</h2>
 
 <p>
   <img
@@ -182,7 +182,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>💻 Coding Mode</h2>
+<h2>Coding Mode</h2>
 
 <p>
   <img
@@ -207,7 +207,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>📖 Currently Learning</h2>
+<h2>Currently Learning</h2>
 
 <table align="center">
   <tr>
@@ -237,7 +237,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>⚖️ H̷̸̶̴̢͢ę̷̸̶̴͢l̷̸̶̴̢͢l̷̸̶̴̨͢o̷̸̶̴̢͢ W̷̸̶̴̢͢ǫ̷̸̶̴͢r̷̸̶̴̢͢l̷̸̶̴̨͢d̷̸̶̴̢͢</h2>
+<h2>H̷̸̶̴̢͢ę̷̸̶̴͢l̷̸̶̴̢͢l̷̸̶̴̨͢o̷̸̶̴̢͢ W̷̸̶̴̢͢ǫ̷̸̶̴͢r̷̸̶̴̢͢l̷̸̶̴̨͢d̷̸̶̴̢͢</h2>
 
 <div align="center">
 
@@ -263,7 +263,7 @@ style="border-radius: 20px;"
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>📫 Call Me Maybe?</h2>
+<h2>Call Me Maybe?</h2>
 
 <p>
 
