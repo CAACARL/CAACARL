@@ -7,7 +7,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/animated-text-intro.gif" width="200" />
+  <img src="./assets/hi-3d.gif" width="200" />
+  <img src="./assets/i-m-3d.gif" width="200" />
+  <img src="./assets/carl-3d.gif" width="200" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" />
