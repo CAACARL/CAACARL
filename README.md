@@ -263,7 +263,7 @@ style="border-radius: 20px;"
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>📫 Connect With Me</h2>
+<h2>📫 Call Me Maybe?</h2>
 
 <p>
 
@@ -288,6 +288,6 @@ style="border-radius: 20px;"
   />
 </p>
 
-  <img src="./assets/glitch-text5.gif" width="300" />
+  <img src="./assets/adios.gif" width="300" />
 
 </div>
