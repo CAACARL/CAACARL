@@ -7,11 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/glitch-text2.gif" width="200" />
-
-  <img src="./assets/glitch-text3.gif" width="200" />
-
-  <img src="./assets/glitch-text.gif" width="200" />
+  <img src="./assets/glitch-text-intro.gif" width="200" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" />
