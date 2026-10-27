@@ -1,0 +1,13 @@
+[
+  {
+    "type": "normal",
+    "fileName": "hacker-green.svg",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#00FF66",
+    "strongColor": "#00FF66",
+    "weakColor": "#4d9e73",
+    "radarColor": "#00FF66",
+    "growingAnimation": true,
+    "contribColors": ["#161b22", "#003d1a", "#00802b", "#00cc4a", "#00FF66"]
+  }
+]
