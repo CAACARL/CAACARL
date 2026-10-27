@@ -1,4 +1,5 @@
 <div align="center">
+
   <!-- HERO -->
 
   <img src="./assets/hi-3d.gif" width="200" alt="Hi" />
@@ -237,4 +238,3 @@
 
   <img src="./assets/adios.gif" width="300" alt="Adios" />
 </div>
-```
